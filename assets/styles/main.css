@@ -1,0 +1,22 @@
+/* ----------------------------------------*\
+  MAIN
+\* ---------------------------------------- */
+
+/* 
+@tailwind base;
+@tailwind components;
+@tailwind utilities; 
+*/
+
+
+@import "tailwindcss/base";
+
+@import "tailwindcss/components";
+
+@import "objects/columns.postcss";
+@import "objects/card.postcss";
+
+@import "components/site-footer.postcss";
+/* @import "components/card.postcss"; */
+
+@import "tailwindcss/utilities";
